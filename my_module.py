@@ -78,9 +78,9 @@ class DataAnalysis:
 
         plt.legend()
         plot_name = 'alcohol_consumption_analysis.png'
-       
-        plt.show()
         self.save_plot(plot_name)
+        plt.show()
+        
         
         
 
