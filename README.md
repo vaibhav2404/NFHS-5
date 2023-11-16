@@ -1,8 +1,8 @@
-## Project Title
+# Project Title
 Indian Health Data Analysis Project
 
 # Project Description
-The Indian Health Data Analysis Project is a comprehensive initiative that explores various health-related statistics, covering topics such as sex ratios, alcohol consumption, blood pressure analysis, and geographic visualization through choropleth maps and scatter plots. The project provides valuable insights into the health landscape of different states/regions in India.
+The Indian Health Data Analysis Project is a python based project that explores various health-related data collected by Govt of India, covering topics such as sex ratios, alcohol consumption, blood pressure analysis, and geographic visualization through choropleth maps using Geopandas and scatter plots. The project provides valuable insights into the health landscape of different states/regions in India. It includes interactive dashboard for users to select attributes which they want to plot as part of chloropleth and scatter plots
 
 # Table of Contents
 Data Analysis Class
@@ -21,7 +21,7 @@ GeoPandas
 
 # Project developed by  Vaibhav Mishra.
 
-# Data source: data.gov.in
+# Data source: data.gov.in for health survey data, Kaggle for India Shapefile
 
 
 
