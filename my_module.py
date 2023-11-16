@@ -109,8 +109,9 @@ class DataAnalysis:
         plt.xlabel('Category')
         plt.ylabel('Percentage (%)')
         plot_name = ' Overall_bollod_pressure_comparison'
-        plt.show()
         self.save_plot(plot_name)
+        plt.show()
+        
         print(comparison_table)
 
     
